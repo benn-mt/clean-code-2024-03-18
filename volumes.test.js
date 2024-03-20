@@ -1,4 +1,4 @@
-const {TEASPOON, TABLESPOON, OUNCE, CUP, PINT, QUART, GALLON} = require("./measures");
+const {TEASPOON, TABLESPOON, OUNCE, CUP, PINT, QUART, GALLON} = require("./volumes");
 
 describe('Conversion between different measurements', () =>{ 
     test('can be created through helper methods', () =>{

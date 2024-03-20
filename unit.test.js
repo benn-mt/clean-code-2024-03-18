@@ -1,4 +1,4 @@
-const {TEASPOON, TABLESPOON, OUNCE} = require("./measures");
+const {TEASPOON, TABLESPOON, OUNCE} = require("./volumes");
 
 describe ('Unit objects....', () => {
     test('can calculate amounts in other units', () =>{

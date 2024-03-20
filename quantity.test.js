@@ -1,5 +1,5 @@
 const {Quantity} = require("./quantity");
-const {TEASPOON, TABLESPOON} = require("./measures");
+const {TEASPOON, TABLESPOON} = require("./volumes");
 
 describe ('Quantity objects....', () => {
     test('are equal when quantity and units match', () => {
